@@ -16,5 +16,6 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # ignore data and .env
+commit-script/
 data/
 .env
